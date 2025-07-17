@@ -1,0 +1,1297 @@
+label,question,label_position
+addcontact,add a new email contact to my list,42
+addcontact,add email,42
+addcontact,add dan's email,42
+addcontact,add carl's email to my contact,42
+addcontact,i need you to add gary's email to my favorites,42
+addcontact,save this email in contact,42
+addcontact,can you add a new email to my contacts,42
+addcontact,please add contact e mail johndoe@yahoocom to john doe's contact information,42
+addcontact,will you please put something something@gmailcom in my contacts,42
+addcontact,save new email addresses to my contacts,42
+addcontact,email <unk> @gmailcom add to email contacts,42
+addcontact,add lowes hardware to my contact emails located in cleveland ohio,42
+addcontact,here's an email address,42
+addcontact,add email to contacts,42
+addcontact,save that email as a new contact,42
+addcontact,add a new email address which is,42
+addcontact,save my contacts,42
+addcontact,add work email address,42
+addcontact,add a new email,42
+addcontact,add this person's email,42
+addcontact,please add to my contact lists and send them a reminder email,42
+addcontact,make a new contact with this email,42
+addcontact,save the email to my contact,42
+addcontact,i need to add this new contact for sam smith ssmith@yahoocom,42
+affirm,yes it was perfect.,49
+affirm,you did your understanding exactly.,49
+affirm,get answer perfectly.,49
+affirm,you have gotten my instructions correcly.,49
+affirm,you have done command correcly.,49
+affirm,yeap good response.,49
+affirm,yes that is confirmed.,49
+affirm,excellent.,49
+affirm,correct.,49
+affirm,yeah agreed.,49
+affirm,yeah exact response to command.,49
+affirm,yeah you have got your understanding perfectly.,49
+affirm,you did it correcly.,49
+affirm,yes fantastic response to the command.,49
+affirm,yeah perfect response.,49
+affirm,you have done your understanding right.,49
+affirm,yeah you've done that exactly.,49
+affirm,you've done it perfectly.,49
+affirm,get that perfectly.,49
+affirm,yes you've got your understanding perfectly.,49
+affirm,yeah perfectly.,49
+affirm,yes amazing response to the command.,49
+affirm,yeap.,49
+affirm,yeah you've done the command exactly.,49
+audiobook,resume a song from the audiobook by madonna,33
+audiobook,i want to hear more audiobook,33
+audiobook,play 'the two towers,33
+audiobook,play audiobook <unk>,33
+audiobook,continue from where we left off in divergent,33
+audiobook,stop audiobook,33
+audiobook,open song name,33
+audiobook,list me the audiobooks i have already listened to,33
+audiobook,play next episode of harry potter by j. k. rowling,33
+audiobook,continue with my audiobook please,33
+audiobook,play my favourite book,33
+audiobook,restart the audiobook heaven is for real,33
+audiobook,book please,33
+audiobook,play from my last session of joes book,33
+audiobook,re start bill nye book,33
+audiobook,start audiobook again,33
+audiobook,hold,33
+audiobook,please restart the handmaid's tale,33
+audiobook,please resume current song of masti,33
+audiobook,please play recently paused audio,33
+audiobook,find me an audio book version of ready player one and play it for me,33
+audiobook,keep playing secret garden,33
+audiobook,resume the girl on the train on audible,33
+audiobook,can you play my favorite audio book of tarzan,33
+cleaning,vacuum the house,6
+cleaning,start house cleanup,6
+cleaning,initialize the robot vacuum,6
+cleaning,please start vacuum cleaner,6
+cleaning,have the vacuum cleaner clean the room,6
+cleaning,start the vacuum at nine am,6
+cleaning,does the robot vacuum cleaner have to be plugged in,6
+cleaning,vacuum the kitchen,6
+cleaning,activate vacuum cleaner,6
+cleaning,vacuum the floor,6
+cleaning,turn the vacuum on,6
+cleaning,start vacuum cleaner now,6
+cleaning,hey start vacuum cleaner robot,6
+cleaning,start the robot vacuum cleaner now,6
+cleaning,initiate the robot vacuum cleaner,6
+cleaning,get the roomba to clean up,6
+cleaning,please run the vacuum,6
+cleaning,please run <unk> insert vacuum name <unk>,6
+cleaning,hoover the hallway,6
+cleaning,i want to clean my bedroom put the vacuum on and go to my room,6
+cleaning,activate robot vacuum,6
+cleaning,clean my house,6
+cleaning,activate vacuum,6
+cleaning,robot vacuum cleaner on,6
+coffee,can you start the coffee machine for me,21
+coffee,hey can you please make me a creamy coffee,21
+coffee,make a coffee please,21
+coffee,make five coffee tell the coffee machine,21
+coffee,yo i need a coffee now,21
+coffee,want to wake up can u order a caffechino,21
+coffee,can i have an espresso please,21
+coffee,i'd like an espresso,21
+coffee,please make a coffee for me,21
+coffee,order one coffee from nearest coffee shop,21
+coffee,make me a cappuccino,21
+coffee,turn on the coffee machine to make me some coffee,21
+coffee,start cappuccino for me now,21
+coffee,i want coffee from the machine,21
+coffee,start making a coffee,21
+coffee,go and make me a coffee,21
+coffee,let me get a cup of coffee please,21
+coffee,please make me a coffee using the coffe machine,21
+coffee,will you please get the coffee machine to make some coffee,21
+coffee,please make some coffee for me,21
+coffee,start the coffee machine at three,21
+coffee,start coffee,21
+coffee,make me happy juice,21
+coffee,make me a strong [coffee_amount : cup] of coffee,21
+commandstop,olly can you shut down please.,50
+commandstop,"olly that's enough, just stop.",50
+commandstop,olly will you stop it.,50
+commandstop,will you shut off please.,50
+commandstop,olly can you shut off please.,50
+commandstop,olly please will you shut off.,50
+commandstop,please would you just cancel it.,50
+commandstop,will you please shut up.,50
+commandstop,i'd like you just cancel.,50
+commandstop,olly can you shut up please.,50
+commandstop,olly would you shut off.,50
+commandstop,olly will you shut down please.,50
+commandstop,"that is all, just cancel.",50
+commandstop,"that is enough, just stop it.",50
+commandstop,could you just cancel.,50
+commandstop,olly stop please.,50
+commandstop,"olly that is enough, stop it.",50
+commandstop,could you shut off.,50
+commandstop,will you please shut off.,50
+commandstop,olly please can you cancel.,50
+commandstop,please can you cancel it.,50
+commandstop,"that is enough, just stop.",50
+commandstop,olly please would you shut down.,50
+commandstop,can you please shut down.,50
+confirm,confirm details.,51
+confirm,did you get last thing said correctly?,51
+confirm,i would like you to check and confirm that please.,51
+confirm,could you check that.,51
+confirm,please could you check that.,51
+confirm,would you please check it.,51
+confirm,i'd like you to check the details please.,51
+confirm,would you check and confirm detail please.,51
+confirm,confirm last thing said please.,51
+confirm,can you check and confirm what said please.,51
+confirm,will you check my last command please.,51
+confirm,will you please check it.,51
+confirm,will you check and confirm the question.,51
+confirm,can you check the details.,51
+confirm,please confirm my last question.,51
+confirm,will you please check and confirm last thing said.,51
+confirm,would you please check and confirm detail.,51
+confirm,please will you confirm my last command.,51
+confirm,can you check and confirm detail.,51
+confirm,can you please confirm details.,51
+confirm,can you check my last question.,51
+confirm,will you check that please.,51
+confirm,i want you to confirm details please.,51
+confirm,would you check and confirm last thing said please.,51
+convert,which time zone are we in please change to current,11
+convert,it is nine here what time is it in california,11
+convert,convert current time from g. m. t. to est,11
+convert,convert eight am manila time to new york time,11
+convert,if it's five am in berlin what time is it here,11
+convert,what is the time nine am cst in est,11
+convert,tell me the time in someplace,11
+convert,if it's eight pm on the east coast what time is it in sacramento california,11
+convert,change this time zone to wasington,11
+convert,eight am in manila is what in new york,11
+convert,set timezone,11
+convert,tell me the time in g. m. t. plus five,11
+convert,if it is four pm in missouri what time is it in london,11
+convert,if it's midnight in colorado what time is it in munich,11
+convert,what is the time difference between california and michegan,11
+convert,what the time difference from here to ottawa,11
+convert,convert eight thirty from gtm four hundred to g. m. t. five hundred and thirty,11
+convert,how much later is new york than la,11
+convert,what is the time difference between eastern and pacific time zones,11
+convert,it is ten am in eastern standard time what time it is now it pacific standard time,11
+convert,convert one hundred and two from gtm four hundred and thirty to g. m. t. one hundred and thirty,11
+convert,time zone between india and us,11
+convert,if i call mike in california at six pm what will his time be,11
+convert,how many hours difference is hong kong from new york city,11
+createoradd,create a new list for me,41
+createoradd,i want to start a new list of power tools on sale at true value,41
+createoradd,make new playlist from recent songs,41
+createoradd,put pencil on a new grocery list,41
+createoradd,please open grocery list and add bananas to list,41
+createoradd,create a new list by tomorrow,41
+createoradd,create a list of jewels to be bought,41
+createoradd,create new list for brilliant ideas,41
+createoradd,create a new shopping list,41
+createoradd,make a new list for me,41
+createoradd,replace the furniture with electronics on the list,41
+createoradd,make a new list of dog breeds,41
+createoradd,please start new list,41
+createoradd,i need to add water to my kroger list,41
+createoradd,make a grocery list please,41
+createoradd,please create a new list for me,41
+createoradd,remind me to buy jeans on my shopping list,41
+createoradd,bring up the grocery list and add,41
+createoradd,produce a new register,41
+createoradd,add ashley to the wedding invite list,41
+createoradd,add this one also,41
+createoradd,create a new folder,41
+createoradd,save appointment to list,41
+createoradd,creat a new to do list,41
+currency,xchange rates,45
+currency,could you please tell me what is the rate for pound to u. s. d.,45
+currency,which currency is greater the us dollar or yen,45
+currency,show me the exchange rate between czk and dollar,45
+currency,find exchange rate for u. s. d. to pound,45
+currency,how much is five pesos worth,45
+currency,what's eur u. s. d. right now,45
+currency,if i have a dablune how many [currency_source : dollars] is that,45
+currency,convert ten [currency_source : dollars] to yen,45
+currency,how much yens is a dollar worth,45
+currency,what is the prevailing exchange rate us$ v s indian rupees,45
+currency,u. s. d. to g. b. p.,45
+currency,what is the exchange rate between u. s. d. and inr,45
+currency,how many euros is one dollar,45
+currency,give me the exchange rate between united states dollar and canadian dollar,45
+currency,what is [currency_source : dollars] in yen,45
+currency,euro to u. s. d.,45
+currency,how much is a dollar worth compared to a yen,45
+currency,how many american [currency_source : dollars] are in a euro,45
+currency,what does one u. s. d. equal in aus,45
+currency,what is the exchange rate between one s. d. i'm pesos,45
+currency,what is the exchange rate between us dollars and yen,45
+currency,how many us [currency_source : dollars] do i need to have twenty canadian [currency_source : dollars],45
+currency,what is the exchange rate of mexican pesos to us [currency_source : dollars],45
+definition,what is the meaning of the word sanctimonious,39
+definition,hey what is the definition of survey,39
+definition,by definition what does the word absolute mean,39
+definition,how do you describe a capabara,39
+definition,what is the defination of textual,39
+definition,siri what does jon snow's handsome face look like,39
+definition,what is hurricane,39
+definition,define computer <unk>,39
+definition,what is a hibachi grill,39
+definition,give details of rock sand,39
+definition,explain photosynthesis,39
+definition,please describe about microwave,39
+definition,what is a transistor,39
+definition,what does blank mean,39
+definition,what is the meaning of a stethoscope,39
+definition,how would yo define object a,39
+definition,define computer,39
+definition,hey what's a book,39
+definition,define flabbergasted,39
+definition,what does a baguette look like,39
+definition,describe rock sand,39
+definition,what is computer,39
+definition,can you describe to me what a pineapple looks like,39
+definition,tell me the defination of,39
+dislikeness,i don't like that song turn it off,19
+dislikeness,this song is too length,19
+dislikeness,remember that i do not like this music,19
+dislikeness,make a note that i don't like this song,19
+dislikeness,i don't like it,19
+dislikeness,skip this song,19
+dislikeness,do not play rock metal,19
+dislikeness,don't play this song again,19
+dislikeness,thumbs down,19
+dislikeness,i hate this song do not play it again,19
+dislikeness,i do not enjoy this song,19
+dislikeness,do not play this song again,19
+dislikeness,that song in the background is annoying,19
+dislikeness,never ever play me any country,19
+dislikeness,i hate this song please remember that so that i don't hear this song ever again,19
+dislikeness,i hate this song,19
+dislikeness,hi google this song is too noisy,19
+dislikeness,i don't like this band,19
+dislikeness,that background song is terrible,19
+dislikeness,this song is not very good,19
+dislikeness,i don't want to hear any more songs of that type,19
+dislikeness,i never want to hear that song again,19
+dislikeness,i don't like this song,19
+dislikeness,remember that this song is depressing for me please don't play it during the winter days,19
+dontcare,really wouldn't mind.,47
+dontcare,"it is unimportant for me, olly.",47
+dontcare,i don't care.,47
+dontcare,"this is of no importance, olly.",47
+dontcare,"that does not really matter, olly.",47
+dontcare,do not mind.,47
+dontcare,wouldn't really bother.,47
+dontcare,"this does not matter to me, olly.",47
+dontcare,"any one is fine for me, olly.",47
+dontcare,i wouldn't really bother.,47
+dontcare,"i have no idea for which to choose, olly.",47
+dontcare,have no idea for what to do.,47
+dontcare,i don't bother.,47
+dontcare,whatever is good to me.,47
+dontcare,this is of no importance for me.,47
+dontcare,really would not mind.,47
+dontcare,have no idea about what to select.,47
+dontcare,really do not mind.,47
+dontcare,would not mind to select any one.,47
+dontcare,don't bother.,47
+dontcare,really i would not mind.,47
+dontcare,"wouldn't really know, olly.",47
+dontcare,i do not know.,47
+dontcare,"that is unimportant to me, olly.",47
+events,tell me all events for today in my city,32
+events,what events are happening today,32
+events,i want out tonight what's on,32
+events,find the events,32
+events,show me all the events happening in milan,32
+events,what is going on in my area today,32
+events,are there any events going on downtown tonight,32
+events,search events and meetups for central park west,32
+events,what are the local events,32
+events,can you tell me what kind of show can i go tonight in miami,32
+events,what's happening at the library this month,32
+events,list local ongoing exhibitions,32
+events,are there any events happening this weekend,32
+events,what events are coming up,32
+events,,32
+events,what events are going on around my place,32
+events,what's happening around town,32
+events,searching for any special holidays for us country,32
+events,are there any interesting even going on around my location,32
+events,please ute me with the list of events happening in my area,32
+events,what activities are taking place in my area,32
+events,show me events in sacramento,32
+events,please search for local events,32
+events,find events in local area,32
+explain,would you elaborate me on what you've said once again.,52
+explain,once again elaborate me on what you have just said please.,52
+explain,could you elaborate me more on your response please.,52
+explain,"s2, your words is not clear to me.",52
+explain,could you explain me about the last sentence again please.,52
+explain,i can not quite catch up with you.,52
+explain,i was not clear about your response.,52
+explain,can't get what you've just said.,52
+explain,clarify once again to me please.,52
+explain,i do not get the last sentence.,52
+explain,clarify last sentence once again to me please.,52
+explain,i am not so clear about your answers.,52
+explain,"s1, would you please elaborate me on it again.",52
+explain,please explain me more on what you said.,52
+explain,"s2, i couldn't catch up with you.",52
+explain,"s1, could you please clarify me about what you've just said once again.",52
+explain,will you please clarify me about this further.,52
+explain,could you explain further on what you just said now to me.,52
+explain,"s2, could not get your answers.",52
+explain,please rephrase more on what you just said now.,52
+explain,"s2, i don't get your words.",52
+explain,"s1, please elaborate me on your answer again.",52
+explain,"s1, please again explain last sentence.",52
+explain,i am unclear about your words.,52
+factoid,tell me tom hanks middle name,31
+factoid,is eddie murphy still alive,31
+factoid,is adele going to go on tour,31
+factoid,when was d parton born,31
+factoid,how come you assistants are never male,31
+factoid,how high is pikes peak,31
+factoid,what is the capital of jordan,31
+factoid,how many kilometers are in a mile,31
+factoid,get more information on geographic information about this place,31
+factoid,explain the book of daniel to me,31
+factoid,what is the temperature right now in new york,31
+factoid,where is the best vacation spot in calafornia,31
+factoid,i would like if will be smart and intelligent in way it will be familiar with me and recognise the way i like the result will be,31
+factoid,can many seashells did sally sell by the seashore,31
+factoid,how old is hugh jackman,31
+factoid,what is the tallest mountain in tucson,31
+factoid,tell me about the height of mount everest,31
+factoid,tell me about sean connery,31
+factoid,please give me information about jhon abraham lincon,31
+factoid,tell me the highest mountain in the world``,31
+factoid,what is justin bieber's birthday,31
+factoid,how would you reach moscow,31
+factoid,what is clint eastwood doing these days,31
+factoid,is it true that asia has only two countries,31
+game,open subway surfers,37
+game,let's play tic tac toe,37
+game,want to play a game,37
+game,lets solve the puzzle,37
+game,my games to play in my phones,37
+game,i want to play blackjack,37
+game,my games to play in my 's,37
+game,i want you to play my socceer game from fifth level,37
+game,please open snooker game i would like to play with you,37
+game,fight me in street fighter,37
+game,let's play a game how about tic tac toe,37
+game,do you want to play,37
+game,let us play cross words,37
+game,will play chess,37
+game,play ping pong,37
+game,let's play a game of truth or dare,37
+game,i want to play a trivia game,37
+game,i want to play some video games,37
+game,angry bird play,37
+game,lets play poker,37
+game,create a playing teams and play with them,37
+game,twenty questions you start,37
+game,lets play checkers,37
+game,start up league of legends for me,37
+greet,good day,10
+greet,good afternoon how are you,10
+greet,good evening,10
+greet,how was the day,10
+greet,good afternoon,10
+greet,,10
+greet,what's up,10
+greet,hello what are you up to,10
+greet,good morning,10
+greet,hello,10
+greet,hello how are you,10
+greet,how are you doing,10
+greet,how are you today,10
+greet,how is everything,10
+greet,who are you,10
+greet,hey what's up,10
+greet,hey,10
+greet,hi,10
+greet,morning what's up,10
+greet,hi how are you,10
+greet,hello how are you today,10
+greet,hey hey,10
+greet,hey how are you,10
+greet,hey what's today,10
+hue_lightchange,romantic light setting please,2
+hue_lightchange,change the lights to blue,2
+hue_lightchange,turn <unk> to green,2
+hue_lightchange,change the lighting to blue,2
+hue_lightchange,change the color of the lights,2
+hue_lightchange,change light colour to blue,2
+hue_lightchange,i need to change my house lights colour to blue,2
+hue_lightchange,make my lights green,2
+hue_lightchange,hey siri chance the current light settings,2
+hue_lightchange,can the lights be changed to,2
+hue_lightchange,chane light colour to green,2
+hue_lightchange,hey can you make it blue in here,2
+hue_lightchange,replace the current light colours in the house with dark ones,2
+hue_lightchange,can you shuffle the light colors in the house,2
+hue_lightchange,please make the lights blue,2
+hue_lightchange,purchase a new bulb with more brightness,2
+hue_lightchange,change the colours please,2
+hue_lightchange,make the room blue,2
+hue_lightchange,want to have vibrant colours,2
+hue_lightchange,set brightness to fifty percent,2
+hue_lightchange,can you change the living room lights to a softer color,2
+hue_lightchange,change the color of my lights to something random,2
+hue_lightchange,change my house lights colour to blue,2
+hue_lightchange,fi <unk> the light which has one hundred and fifty watts,2
+hue_lightdim,lights down to seven,5
+hue_lightdim,dim the lights a bit,5
+hue_lightdim,dim lights,5
+hue_lightdim,lower the lights in the house,5
+hue_lightdim,lower the brightness of the lights,5
+hue_lightdim,this is too bright,5
+hue_lightdim,decrease brightness of lights,5
+hue_lightdim,lower lights please,5
+hue_lightdim,attenuate the lights,5
+hue_lightdim,dim my light,5
+hue_lightdim,minimize the lights,5
+hue_lightdim,lower lights down,5
+hue_lightdim,dim the lights please,5
+hue_lightdim,please turn down the lights to fifty percent in the den,5
+hue_lightdim,please lights less brighter,5
+hue_lightdim,lower the lights in the bedroom,5
+hue_lightdim,bed room two darken,5
+hue_lightdim,dim the lights at the living room,5
+hue_lightdim,decrease brightness,5
+hue_lightdim,turn the lights down,5
+hue_lightdim,dim the lights,5
+hue_lightdim,darken the room a bit,5
+hue_lightdim,i would love a less bright up room,5
+hue_lightdim,give me low lighting in the kitchen,5
+hue_lightoff,turn all the lights off,3
+hue_lightoff,hey turn off the light please,3
+hue_lightoff,please turn off the lights in the <unk>,3
+hue_lightoff,turn off the light,3
+hue_lightoff,switch off lights,3
+hue_lightoff,turn off lights of kitchen,3
+hue_lightoff,desk lamp one off,3
+hue_lightoff,can you please turn off the lights in this room,3
+hue_lightoff,please turn off the light,3
+hue_lightoff,turn off the room lights,3
+hue_lightoff,turn off overhead light,3
+hue_lightoff,turn off the lights now,3
+hue_lightoff,could you turn the light off,3
+hue_lightoff,turn off all the lights in the living room and den,3
+hue_lightoff,switch off the master's bedroom,3
+hue_lightoff,turn off the living room lights,3
+hue_lightoff,turn off the porch light,3
+hue_lightoff,kitchen light off,3
+hue_lightoff,can you please off the light,3
+hue_lightoff,turn off the lights in the bathroom,3
+hue_lightoff,i want the lights turned off,3
+hue_lightoff,turn house lights off,3
+hue_lightoff,please turn off kitchen light for me,3
+hue_lightoff,can you turn off my bedroom lamp,3
+hue_lighton,please turn the lights on,4
+hue_lighton,turn on all upstairs lights,4
+hue_lighton,please turn all all lights,4
+hue_lighton,it's too dark in here,4
+hue_lighton,please turn on the lights,4
+hue_lighton,it's dark in here,4
+hue_lighton,and the light began,4
+hue_lighton,it's awfully dark here,4
+hue_lighton,lights on,4
+hue_lighton,it's dark in the living room,4
+hue_lighton,it's too dark i can't even see my hands,4
+hue_lighton,can you put the lights on the high setting,4
+hue_lighton,i can't see anything,4
+hue_lighton,put the disco lights on,4
+hue_lighton,turn the lights on full bright,4
+hue_lighton,,4
+hue_lighton,turn the lights on,4
+hue_lighton,please turn on my balcony lights,4
+hue_lighton,it's too dark here,4
+hue_lighton,please turn on all the outdoor lights,4
+hue_lighton,light up the lights in the kitchen,4
+hue_lighton,lights out,4
+hue_lighton,i want to turn on the blue lights,4
+hue_lighton,clap on,4
+hue_lightup,make it brighter in here,14
+hue_lightup,please arrange to make all lights to show brighter,14
+hue_lightup,can the lights be turned up,14
+hue_lightup,can you brighten the lights for me,14
+hue_lightup,increase light,14
+hue_lightup,increase brightness by twenty percent,14
+hue_lightup,please increase the light,14
+hue_lightup,brighter,14
+hue_lightup,make the lights brighter,14
+hue_lightup,i can't see let's make it brighter,14
+hue_lightup,please raise the light i am not comfortable at this,14
+hue_lightup,turn up the brightness,14
+hue_lightup,spread some lights,14
+hue_lightup,brighten my bedroom light,14
+hue_lightup,i can't see turn up the lights,14
+hue_lightup,connect to lights,14
+hue_lightup,increase the light a little,14
+hue_lightup,turn up the lights,14
+hue_lightup,google brighten the lights,14
+hue_lightup,more ligth please,14
+hue_lightup,please make the room brighter,14
+hue_lightup,please turn the lights brighter,14
+hue_lightup,please brighten the lights,14
+hue_lightup,please turn up the screen brightness all the way,14
+joke,tell me the funniest joke that was ever told,18
+joke,what's a good joke,18
+joke,what is the funniest joke ever,18
+joke,i want to hear a good joke,18
+joke,do you know any joke,18
+joke,make me happy,18
+joke,send a giggle my way,18
+joke,can you find an animal joke for me,18
+joke,say a joke,18
+joke,whats a silly joke you know,18
+joke,are you aware this joke,18
+joke,tell me a joke about dogs,18
+joke,joke me,18
+joke,i want a nerd joke,18
+joke,open some cools jokes,18
+joke,show me a funny joke,18
+joke,tell me some funny joke to laugh,18
+joke,search for a good nerd joke,18
+joke,hey tell me a knock knock joke,18
+joke,what is your best joke,18
+joke,i want to hear a funny joke,18
+joke,do you have a joke,18
+joke,provide a joke,18
+joke,can i hear the joke about the old woman again,18
+likeness,remember metallica selections for next time,13
+likeness,the song makes me remember certain memories,13
+likeness,i'm really enjoying this song,13
+likeness,save my spotify preferences,13
+likeness,save this channel on pandora please,13
+likeness,that's a good song,13
+likeness,rate this song five stars and save the rating,13
+likeness,i like senatra songs,13
+likeness,i love kfi <unk> so much he's by far my favorite,13
+likeness,remember that this song is good but too slow to exercise to,13
+likeness,save my music choices,13
+likeness,save my last playlist,13
+likeness,can you save this what a nice song for me,13
+likeness,add that song to my playlist,13
+likeness,please thumbs up this song,13
+likeness,save this song in my great songs category,13
+likeness,save opinion on song,13
+likeness,remember this music,13
+likeness,please rate this song <unk> insert rating here <unk>,13
+likeness,the song you are playing is amazing,13
+likeness,store opinion on song,13
+likeness,my favorite singer is shakira,13
+likeness,i like the background song,13
+likeness,filter all arijit singh sad song and save or create playlist of sad songs of arijit singh,13
+locations,where should i go for mexican food in my area,28
+locations,list shops in second street,28
+locations,where is the best mechanic in eagle point,28
+locations,tell me pizza restaurants close by,28
+locations,let's see whats around,28
+locations,recommend a restaurant with medium expense,28
+locations,where is a nearby park where i can go running,28
+locations,guide me to the restaurant,28
+locations,who sells the cheapest netbooks in south austin,28
+locations,are there any veg restaurants in phoeni <unk>,28
+locations,what clothes store would you recommend here,28
+locations,show me thai food near me,28
+locations,show shops around second street,28
+locations,please tell me the closest convenience store to my house,28
+locations,is there a well rated pizza place between fourteenth and eighteenth streets,28
+locations,where is the closest good restaurants,28
+locations,what's the best clothes store here,28
+locations,where is a good place to buy clothes in medford,28
+locations,where's the closest zoo to where i'm at,28
+locations,what restaurants around here have good reviews,28
+locations,where is the closer starbucks,28
+locations,whats a good place to eat around midtown new york,28
+locations,what chinese restaurants are in my area,28
+locations,tell me a nice chinese restuarant,28
+maths,what is five minus one,44
+maths,what is the square root of four,44
+maths,tell me the answer for two plus two,44
+maths,how much is twelve divided by four,44
+maths,what is twenty four times twenty four,44
+maths,what's two plus two,44
+maths,whats two hundred divided by five,44
+maths,how to calculate trigonametry,44
+maths,what is the result of one minus fifty,44
+maths,sum of five and two,44
+maths,what is twenty percent of one hundred and fifty,44
+maths,show me the answer for this problem two hundred and forty six plus six hundred and fifty four,44
+maths,two by two is,44
+maths,what is twenty three times fifty two,44
+maths,what is the square root of ninety seven,44
+maths,what's on <unk>,44
+maths,,44
+maths,how any times does fifty go into one million,44
+maths,browsing centres,44
+maths,usning calc,44
+maths,is equal to,44
+maths,how many pounds do sixty kg make,44
+maths,what is six divided by two,44
+maths,calculate <unk>,44
+movies,movies with good rivews,36
+movies,tickets,36
+movies,what movies are going around me,36
+movies,local theater screening which movie,36
+movies,what movies are showing in cinema today,36
+movies,fast and the furious,36
+movies,what is playing at amc twenty,36
+movies,what movies are playing right now,36
+movies,please recommend a movie,36
+movies,can you tell me what movie has the best reviews,36
+movies,any good movies,36
+movies,which rom com movie can i watch in theatres around new york,36
+movies,what's a movie in theaters that doesn't suck,36
+movies,show me theatre where pirates of caribbean is playing,36
+movies,two thousand and seventeen movies,36
+movies,find an oscar nominee movie,36
+movies,what movies are playing this week,36
+movies,show me movie times,36
+movies,should i watch this movie,36
+movies,what movies are playing at carmike cinemas,36
+movies,how is the new movie swat,36
+movies,what is a good movie to see right now,36
+movies,can you tell me which movie is going on in the nearby multiple <unk>,36
+movies,what new movies available today,36
+music,put summer lovin in third position in my queue,8
+music,i want to play that music one again,8
+music,please play rock music,8
+music,pleae play me the madonna song again,8
+music,play something by the used,8
+music,i want to hear play that funky music,8
+music,play top ten,8
+music,play joy division,8
+music,play classical music playlist,8
+music,play music by korn,8
+music,play for me hip hop music,8
+music,play clarity by zedd,8
+music,workout playlist,8
+music,can you play rock music for the next hour,8
+music,play my sadness playlist,8
+music,i want to hear <unk> song <unk>,8
+music,play a song that will make me smile,8
+music,play my itunes music,8
+music,play my shazam playlist on the spotify app,8
+music,choose music player,8
+music,can you play some elvis for me,8
+music,play run,8
+music,play some carnatic songs,8
+music,play the track eight from google play music,8
+negate,"hmm, i think you did that all wrong.",46
+negate,"shit, i think not right.",46
+negate,your answer is incorrect.,46
+negate,i am sorry but i think you are not correct.,46
+negate,sorry but that was not the correct command.,46
+negate,i think you did it all wrong.,46
+negate,thanks but you had it not right.,46
+negate,"nope, i think you have made some mistake.",46
+negate,i think it's not the correct response.,46
+negate,"nope, i think you had it not correct.",46
+negate,i am sorry but you have gotten me incorrectly.,46
+negate,"hmm, not right response.",46
+negate,thanks but you are incorrect.,46
+negate,sorry but you have messed up.,46
+negate,i think your answer is not correct.,46
+negate,your answer was incorrect.,46
+negate,i think it's not the right answer.,46
+negate,"nope, you gave me not correct information.",46
+negate,sorry but that's not correct.,46
+negate,got me incorrectly.,46
+negate,"shit, i did not ask for this answer.",46
+negate,"nope, i think you made mistake, please correct this.",46
+negate,sorry but i think you are not correct.,46
+negate,i think this is not right command.,46
+order,hi i want to order fried chick with white sauce,15
+order,when i get home can you please order a pizza,15
+order,order a large pan pizza with ham and mushrooms from pizza hut,15
+order,place an order for two pizzas from dominoes,15
+order,call domino's pizza,15
+order,order some fried chicken from church's chicken via grubhub,15
+order,could you order sushi for tonight dinner,15
+order,order a pizza for me,15
+order,order two pizzas from dominoes,15
+order,open grubhub,15
+order,call eastwind and order lomaine to go,15
+order,i want to order food,15
+order,order pizza,15
+order,i would like to order takeaway,15
+order,i need two pizzas stat,15
+order,pull up peking garden online,15
+order,how much does general tsos chicken cost a peking garden,15
+order,please order take from jason's deli,15
+order,noodles one pack make it as takeaway,15
+order,please order some sushi for dinner,15
+order,find food and order,15
+order,show me chinese food near me,15
+order,free home delivery,15
+order,ordering food,15
+podcasts,play podcast for the philadelphia eagles content,34
+podcasts,play the next recording,34
+podcasts,i want you to play the podcast,34
+podcasts,forward this one,34
+podcasts,skip ahead to the next podcast,34
+podcasts,play podcast,34
+podcasts,show me the best podcast of folk songs having rating of above four star and play it,34
+podcasts,go back to the podcast before,34
+podcasts,go forward one episode,34
+podcasts,can you play back to december,34
+podcasts,play anything new from my podcast subsciptions,34
+podcasts,please skip to the next podcast episode,34
+podcasts,please play next episode of,34
+podcasts,open podcast by the young turks,34
+podcasts,does allearsnet have a new podcast,34
+podcasts,play me the new podcast from npr,34
+podcasts,play that podcast i was listening to yesterday,34
+podcasts,please go to next date,34
+podcasts,i want to listen to a new podcast on healthcare,34
+podcasts,i would like to hear the podcast of the heat game thats is being played tonight,34
+podcasts,i am ready to hear the next episode of podcast,34
+podcasts,turn on reply all podcast,34
+podcasts,up load all my podcast,34
+podcasts,play next,34
+post,tweet about cold pizza to papa johns,27
+post,my pizza came cold i need to contact pizza hut on twitter,27
+post,tweet @company,27
+post,hi siri post my last clicked photo on facebook with title marry christmas,27
+post,on amazon tweeter handler tweet a complain about quality of my jeans,27
+post,it would be nice if you post status for me,27
+post,i have a complaint,27
+post,place family phone on instagram,27
+post,tweet consumer service about their dirty area,27
+post,publish an article in pinterest,27
+post,please create a new tweet,27
+post,open twitter and tweet bad service by online buying site waste of money,27
+post,can you contact samsung and say my washer is on fire,27
+post,send a tweet to apple that their batteries drain too fast,27
+post,open twitter,27
+post,tweet @bobburgers they screwed up my order and i had to wait an extra hour,27
+post,post i am happy to facebook,27
+post,manage facebook status,27
+post,i want to post on linkedin,27
+post,i need you to tweet a complaint,27
+post,post the following as a status on facebook,27
+post,send a poor review to this pf chang's yelp page,27
+post,log a complaint about smart tv to sony customer service,27
+post,tell walmart they're bad,27
+praise,it's great one.,53
+praise,"it was helpful, thank you so much.",53
+praise,"that's useful, thank you so much.",53
+praise,"that is cool, thank you.",53
+praise,"it's great one, thank you so much.",53
+praise,you've done that correctly i appreciate it.,53
+praise,"you did fantastic job, thank you so much.",53
+praise,"ah it's excellent, olly.",53
+praise,"it's good, thank you.",53
+praise,"it's useful,.",53
+praise,"you are awesome,.",53
+praise,"musch appreciated, it's good work.",53
+praise,"it's cool, thanks.",53
+praise,"you did perfect work, i appreciate it.",53
+praise,appreciate the response.,53
+praise,"it was nice one, thank you very much.",53
+praise,oh that's fantastic.,53
+praise,"it's nice, thank you very much.",53
+praise,"that was helpful, i appreciate it.",53
+praise,"it's helpful, thank you, olly.",53
+praise,"you are helpful,.",53
+praise,you are smart.,53
+praise,"you are my star, musch appreciated, olly.",53
+praise,"it was amazing, olly.",53
+query,cnn headlines,7
+query,my expenses,7
+query,do i have any new emails in the last hour,7
+query,who do i have a meeting with on january nineteenth in the afternoon,7
+query,train times from near me to location,7
+query,tell me the train ticket price of california to chicago,7
+query,what is the bbc's latest news,7
+query,the meeting with <unk> will be in,7
+query,when does the f train run today,7
+query,what will be the weather today afternnon,7
+query,what things do i have on my morning to do list,7
+query,check my facebook notification,7
+query,is there a possibility of heavy snow this evening,7
+query,give me today's football match scorecard,7
+query,does that restaurant deliver,7
+query,get me the weather forecast of beijing,7
+query,do i have any new e mails,7
+query,where is an olive garden that does takeaway,7
+query,can you show me the popular posts from facebook today,7
+query,do i have a meeting for today in my calendar,7
+query,what happened in nyc times square yesterday at noontime,7
+query,tell me what is on my list,7
+query,show me the calender,7
+query,is today a sunny day or rainy day,7
+querycontact,call raju phone number,40
+querycontact,is bills cell phone number in my contacts,40
+querycontact,find john smith in contacts,40
+querycontact,is bills pager number in my contacts,40
+querycontact,can you pull up jeff,40
+querycontact,seach the contact,40
+querycontact,show johns office number,40
+querycontact,give me the number to mom,40
+querycontact,can you give me details on john,40
+querycontact,tell me the area code for jen k,40
+querycontact,what is mary s.mith's telephone number,40
+querycontact,tell me about mary s.,40
+querycontact,please open my contact list,40
+querycontact,jay's phone number,40
+querycontact,do i have a home number for shelly,40
+querycontact,what is joe joe's home address,40
+querycontact,how many contacts are there named john,40
+querycontact,what is jay's phone number,40
+querycontact,how do i reach sarah,40
+querycontact,can you provide me with the contact information assigned to this person,40
+querycontact,what is amber stevens address it is in my contacts,40
+querycontact,what is derek's phone number,40
+querycontact,please find a contact number of rahul judawa,40
+querycontact,tell me mary's cell number,40
+quirky,ok next what,9
+quirky,i hate how long the traffic jams get,9
+quirky,have you come across any new recipes,9
+quirky,hi what are you doing,9
+quirky,hey what do you store about me,9
+quirky,what is the meangin of existence,9
+quirky,i had a lot of fun today,9
+quirky,what rihana is doing,9
+quirky,see if there is something related to my job,9
+quirky,describe about it,9
+quirky,is that person living currently if yes where and how old is that person now,9
+quirky,what am i doing today,9
+quirky,i am not tired i am actually happy,9
+quirky,learn my consciousness so well i could go on living in form after i die,9
+quirky,i want to know what the specials are tonight at bob's house of burgers anything with cheese,9
+quirky,please rub my back,9
+quirky,how's it hangin,9
+quirky,it snowed today,9
+quirky,why does tom izzo look like a whiny bitch when his team plays,9
+quirky,describe the feaures of a two thousand and seventeen toyota eighty six for me,9
+quirky,how does production and population affects us,9
+quirky,explain the meaning of two thousand and one a space odyssey,9
+quirky,how often are you uted,9
+quirky,today i had a meeting with george,9
+radio,open pandora and play hoizer radio,26
+radio,find the best rock station near my location and turn it on,26
+radio,can you start fm eight hundred and ninety radio channel,26
+radio,start radio play,26
+radio,open fm radio ten,26
+radio,i'd like to listen to ninety nine <unk> five,26
+radio,change the station to eight hundred and twenty four,26
+radio,play the breakfast club,26
+radio,please play red fm,26
+radio,turn on channel nine hundred and fifty one,26
+radio,go to radio,26
+radio,rj raunak programme play on nine hundred and twenty seven fm,26
+radio,open pandora and play 'workout,26
+radio,turn on eighty nine <unk> for rock,26
+radio,tune into the korn morning show please,26
+radio,play any country music station,26
+radio,play the radio channel nine thousand three hundred and twenty five,26
+radio,please play the news channel so that i can hear some news,26
+radio,take me to the most popular radio channel,26
+radio,turn on the radio to a classical station,26
+radio,put on,26
+radio,could you play that radio channel,26
+radio,play the radio please,26
+radio,could you please play this programme for me,26
+recipe,how do i braise a pork loin,29
+recipe,how to create buttermilk from milk,29
+recipe,tell me the recipe to make cake,29
+recipe,where will i get best cooking ideas,29
+recipe,how do you make cookies,29
+recipe,crockpot recipe for chicken alfredo,29
+recipe,how long do i cook maccoroni,29
+recipe,what is good way to cook eggs,29
+recipe,tell me how to make a poor boy sandwich,29
+recipe,what is the temperature i am supposed to cook this lasagna at,29
+recipe,how do i cook spaghetti squash,29
+recipe,what is a cookie recipe,29
+recipe,how to make taco,29
+recipe,what is the recipe for,29
+recipe,give me the recipe for this food,29
+recipe,how do you cook steak,29
+recipe,give me a recipe for lasagne,29
+recipe,can you give me instructions on how to cook this food,29
+recipe,how can i debone a tilapia,29
+recipe,learn to cut potatoes correctly,29
+recipe,what is the recipe for,29
+recipe,how much is one serving of broccoli,29
+recipe,how do i cook a medium rare steak,29
+recipe,i need a puttanesca recipe that pre dates one thousand nine hundred and seventy,29
+remove,remove books from list,12
+remove,remove pepper from my grocery list,12
+remove,<unk> out item,12
+remove,delete the meeting tomorrow,12
+remove,delete that item from my list,12
+remove,delete the dentist appointment next week,12
+remove,delete new year's eve from the calender,12
+remove,remove from the playlist my old english songs list,12
+remove,can you clear my calendar,12
+remove,i need to delete the alarm for church on sundays at eleven am,12
+remove,please remove apples from my grocery list,12
+remove,twelve am removed two pm set,12
+remove,remove table from furniture,12
+remove,delete the to do list on march eighteen two thousand and seventeen,12
+remove,remove alarm of six am on tuesday,12
+remove,remove the concert from the calendar events,12
+remove,this item should be removed from list,12
+remove,away off or take off a specific calender event,12
+remove,do not wake me up on weekends,12
+remove,remove the event from monday,12
+remove,remove this event from my calendar notification,12
+remove,delete my next calendar event,12
+remove,remove my work alarm,12
+remove,i am no longer attending the wedding on the tenth so remove it from my calendar,12
+repeat,would you speak once more please.,48
+repeat,speak that one more time please.,48
+repeat,would you try that words spoke one more time again.,48
+repeat,try your last thing one more time please.,48
+repeat,can you start over please.,48
+repeat,would you speak one more time please.,48
+repeat,please would you try that one more time again.,48
+repeat,please could you tell me one more again.,48
+repeat,please will you replay.,48
+repeat,please do it again.,48
+repeat,i am sorry.,48
+repeat,tell me that one more time please.,48
+repeat,let's start over.,48
+repeat,please replay that.,48
+repeat,can you try again please.,48
+repeat,please can you say it once again.,48
+repeat,will you say what you have just said once more please.,48
+repeat,i would like to hear what you said again.,48
+repeat,could you tell me the last spoke once again.,48
+repeat,can you try what i just said again.,48
+repeat,pardon.,48
+repeat,can you try the last one spoken once again.,48
+repeat,i would like to hear what you just said again.,48
+repeat,would you repeat what said please.,48
+sendemail,send an email to the newest address added to the address book,30
+sendemail,will you send an email to this new email address,30
+sendemail,compose email to my mom,30
+sendemail,hiplease send mail to sam by evening,30
+sendemail,email john <unk>,30
+sendemail,respond to jack quickly,30
+sendemail,send an invitation email to marilia,30
+sendemail,add new email to contact,30
+sendemail,create new message to robert @ work what time you off from me send,30
+sendemail,reply to the email from john,30
+sendemail,send this reply to received email,30
+sendemail,send a copy of the bills to mecky by email,30
+sendemail,here is a new email address to be added to the contacts,30
+sendemail,send an email to my mum that i will visit her next weekend,30
+sendemail,please send the email to my mom,30
+sendemail,send a reply to my friend for his question,30
+sendemail,send email to boss not feeling well taking a sick day,30
+sendemail,please send a business email about the time of the meeting change to lauren,30
+sendemail,send email to robert,30
+sendemail,send e mail to nancy about tomorrow's work party details,30
+sendemail,email to address,30
+sendemail,send an email to mike about this weekend party,30
+sendemail,send an email to dad about the weather for the week,30
+sendemail,email robert,30
+set,remind me in time to do thing,0
+set,date of joining,0
+set,remind me everyday at five am,0
+set,set an alarm for twelve,0
+set,tell me when i need to leave the airport,0
+set,set a reminder alert for saturday nine am towards payment of electricity bill,0
+set,i need to calendar a meeting with nathan on monday at nine am,0
+set,alert me about birthday of wife in advance,0
+set,set the alarm for seven am every day,0
+set,remind me about the meeting tomorrow one hour before,0
+set,give me an ute on the election in one hour,0
+set,i need a reminder every single day at nine am,0
+set,note down important event in this week,0
+set,remind me about meeting next week,0
+set,what is on my calendar for today,0
+set,add a lunch date to my calender for march fifteenth from twelve noon to one pm,0
+set,create new calendar event,0
+set,set a notification for sports game,0
+set,i need to set up a meeting with debra for thursday at three pm,0
+set,bring up google calendar please add event for may fifth,0
+set,set an alarm for one pm,0
+set,please add event in calendar,0
+set,set me a meeting next tuesday at eleven am with jesse,0
+set,remind me of location a on the date of <unk> on calendar,0
+settings,repeat song no ten from main list,16
+settings,repeat the last song again,16
+settings,album repeat,16
+settings,shuffle the current album of songs,16
+settings,please put this playlist on shuffle,16
+settings,open music player settings,16
+settings,shazam this music,16
+settings,siri skip song,16
+settings,could you please create a pandora channel for adele,16
+settings,please don't shuffle songs in music player just playing continuously,16
+settings,disable shuffle,16
+settings,select shuffle all,16
+settings,change song,16
+settings,siri skip two songs,16
+settings,move to the next song in the list,16
+settings,show current track in music player,16
+settings,put the playlist on shuffle,16
+settings,repeat the music,16
+settings,please repeat the last song,16
+settings,siri shuffle playlist,16
+settings,shuffle song,16
+settings,equalize the bass of this music,16
+settings,please repeat the current song is being played,16
+settings,turn off shuffle,16
+stock,what is apple's stock,25
+stock,how much is amazon stock,25
+stock,stock price for gmb,25
+stock,give me the opening stock price of infosys technologies today,25
+stock,turn on notification for all news on the stock market,25
+stock,did apple stocks go up or down,25
+stock,how much is starbuck's stock these days,25
+stock,were the stocks rising or declining,25
+stock,what is the price of ford stock,25
+stock,google i. b. m. stock prices,25
+stock,please tell me when i can become rich if i invested in dow stocks today and what will be the return after five years,25
+stock,what is starbuck's stock worth,25
+stock,what is the netfli <unk> stock price,25
+stock,how's microsoft's stock,25
+stock,show me share price of tata,25
+stock,ask my brokers,25
+stock,what's the change in best buy stick,25
+stock,give me the opening stock price of acer computers,25
+stock,what are the stock prices of target,25
+stock,where is dell standing in stock market right now,25
+stock,whats the stock price of apple,25
+stock,more stock price,25
+stock,stock price of goog,25
+stock,please tell me what is the stock price of dew in ny market,25
+taxi,get me an uber,43
+taxi,order me n uber ride please,43
+taxi,call a taxi to pick me up right now,43
+taxi,uber,43
+taxi,book ola cab for now,43
+taxi,taxi uber,43
+taxi,i need a taxi to pick me up at the house and take me downtown,43
+taxi,call me an uber to the movie theater,43
+taxi,can you get me a taxi home,43
+taxi,find a taxi to go home,43
+taxi,book a cab which have cheapest price,43
+taxi,book taxi for now,43
+taxi,book for me an uber taxi to carmen drive,43
+taxi,i need a taxi at eight tomorrow morning to take me to work,43
+taxi,find a taxi to book,43
+taxi,book me a taxi,43
+taxi,whats the closest taxi to me,43
+taxi,book a taxi to the airport for tomorrow morning,43
+taxi,please book a taxi for me to go to the railway station,43
+taxi,can you book an uber tomorrow,43
+taxi,can i get an uber home from the fo <unk> downtown as soon as possible,43
+taxi,schedule taxi pickup for monday at noon,43
+taxi,book an uber for me,43
+taxi,get me a taxi to the airport right now,43
+ticket,i want the cheapest train ticket to new york,35
+ticket,find out the the train arrival time and book me,35
+ticket,secure train passage for me on july three,35
+ticket,purchase ticket to new york city on train,35
+ticket,buy me a ticket to boston,35
+ticket,book me a ticket for a train to new york from boston in two days from now,35
+ticket,find me the earliest train ticket departing friday morning to miami,35
+ticket,book a rajdhani train ticket from mumbai to ahmedabad,35
+ticket,tell me where i should go for times,35
+ticket,book a ticket to paris on eurostar at five pm this friday,35
+ticket,go to wwwmetronorthcom for train tickets,35
+ticket,book the the next train ticket to chennai,35
+ticket,book a train ticket with a berth seat to lucknow for next week,35
+ticket,book me a train ticket,35
+ticket,can you reserve a train ticket for this day,35
+ticket,please go to amtrakcom to purchase tickets,35
+ticket,set me up with a ticket for the five pm commuter to rockville,35
+ticket,search for two tickets on tuesday's train to paris,35
+ticket,buy a train ticket to,35
+ticket,book for me a train ticket to california,35
+ticket,ticket for ny,35
+ticket,i need a train ticket to <unk> book ticket,35
+ticket,please book a ticket of rajdhani express train from jaipur,35
+ticket,book train ticket for this time,35
+traffic,how is the traffic right now,38
+traffic,what is the fastest route to town,38
+traffic,what traffic is there on the route to the pittsburgh airport,38
+traffic,check the traffic to our home,38
+traffic,is there traffic,38
+traffic,is the traffic free in some particular road,38
+traffic,what is the traffic like,38
+traffic,jam,38
+traffic,how long will it take me to get to the west side,38
+traffic,how is the traffic on third street,38
+traffic,id liek to know if there are any accidents on the route that i am taking,38
+traffic,can you tell me about the traffic,38
+traffic,how long will it take to drive to long beach,38
+traffic,in delhi traffic level is more,38
+traffic,are there any accidents on harvard,38
+traffic,which place has more traffic,38
+traffic,please ute me the traffic status,38
+traffic,is the traffic smooth right now,38
+traffic,what is the traffic situation at the bazaar highway,38
+traffic,will traffic be good when i leave in five minutes,38
+traffic,how congested is the traffic on my way to work,38
+traffic,tell me current situation of traffic near central park road,38
+traffic,please let me know about current traffic in carmen drive,38
+traffic,what is the traffic like now,38
+volume_down,down the valume,17
+volume_down,lower volume of music player,17
+volume_down,set the volume to low,17
+volume_down,,17
+volume_down,could you please lower your volume,17
+volume_down,lower volume,17
+volume_down,lower the volume,17
+volume_down,,17
+volume_down,no no turn it down,17
+volume_down,please reduce the speaker volume,17
+volume_down,turn speaker volumne down,17
+volume_down,lower the volume ten percent,17
+volume_down,can you make it a little quieter,17
+volume_down,your volume is too high please repeat that lower,17
+volume_down,can you turn that down,17
+volume_down,turn off the bass from the audio,17
+volume_down,turn the volume down a little please,17
+volume_down,lower audio,17
+volume_down,lower your volume please,17
+volume_down,it is too loud decrease the volume,17
+volume_down,slow the volume speaker,17
+volume_down,please turn down the volume,17
+volume_down,please talk softer,17
+volume_down,down,17
+volume_mute,please pause yourself,1
+volume_mute,mute for <unk>,1
+volume_mute,mute speakers please,1
+volume_mute,quiet please,1
+volume_mute,set the speakers to mute,1
+volume_mute,mute for fifteen minutes,1
+volume_mute,not use,1
+volume_mute,turn on silent mode until my alarm goes off,1
+volume_mute,go silent for a day,1
+volume_mute,turn the volume off,1
+volume_mute,turn the vibrate off from speaker,1
+volume_mute,speakers off,1
+volume_mute,mute the speaker please,1
+volume_mute,silent mode on for the next three hours,1
+volume_mute,stop,1
+volume_mute,go silent until three pm,1
+volume_mute,please stop talking,1
+volume_mute,don't make any sounds,1
+volume_mute,i dont want sound,1
+volume_mute,down the speaker volume at the end of level,1
+volume_mute,stay quite,1
+volume_mute,silent,1
+volume_mute,mute the settings,1
+volume_mute,silently adjust,1
+volume_other,can you change the volume at,20
+volume_other,give me the volume settings,20
+volume_other,change volume level to maximum,20
+volume_other,where is volume setting,20
+volume_other,volume settings please,20
+volume_other,adjust sound,20
+volume_other,how can i adjust the volume,20
+volume_other,change the volume,20
+volume_other,change volume to thirty five percent,20
+volume_other,show volume settings,20
+volume_other,improve volume clarity,20
+volume_other,adjust the volume,20
+volume_other,change volumne settings in the negative,20
+volume_other,give a pleasant sound,20
+volume_other,volume control please,20
+volume_other,set the default audio setting,20
+volume_other,change the volume of the speakers,20
+volume_other,set the average of the device,20
+volume_other,change the audio settings,20
+volume_other,need to see volume settings,20
+volume_other,comfortably adjust sound,20
+volume_other,volume level,20
+volume_other,change volume,20
+volume_other,could you change the volume,20
+volume_up,can you turn up your volume,22
+volume_up,turn up speakers,22
+volume_up,play it louder,22
+volume_up,i couldn't hear you repeat that louder,22
+volume_up,move the volume up a little,22
+volume_up,adjust media volume up,22
+volume_up,please increase the volume of the music hips don't lie,22
+volume_up,can you turn it up a little,22
+volume_up,speak louder please,22
+volume_up,raise the volume of the speakers,22
+volume_up,i need to hear sound on my speakers,22
+volume_up,turn up volume,22
+volume_up,made media volume louder,22
+volume_up,siri turn the volume up,22
+volume_up,heyturn the volume high,22
+volume_up,audio up,22
+volume_up,louder,22
+volume_up,please turn the volume to the loudest setting,22
+volume_up,up the volume the sound is too low,22
+volume_up,please turn up the volume to twenty one,22
+volume_up,on the music player set the volume level at sixty,22
+volume_up,could you please yell the answer out to me,22
+volume_up,,22
+volume_up,raise speaker volume,22
+wemo_off,the wenmo plug should be turned off on,24
+wemo_off,power off please,24
+wemo_off,shut down the plug,24
+wemo_off,turn off on wemo outlet,24
+wemo_off,can we deactive the socket,24
+wemo_off,power off wemo plug socket,24
+wemo_off,turn off smart socket,24
+wemo_off,turn off the tv in,24
+wemo_off,turn off the wemo plug socket,24
+wemo_off,turn off the socket,24
+wemo_off,switch off the plug socket,24
+wemo_off,turn off my wemo socket,24
+wemo_off,turn off sockets,24
+wemo_off,turn the plug off,24
+wemo_off,can u turn off wemo plug socket,24
+wemo_off,please turn off the plug socket of my phone when it'll be charged,24
+wemo_off,shut off the socket,24
+wemo_off,turn off the smart plug,24
+wemo_off,turn off wemo socket,24
+wemo_off,mute your android phone when you arrive at work,24
+wemo_off,can you turn off the smart socket,24
+wemo_off,cut wemo power please,24
+wemo_off,can you please turn off my wemo plug,24
+wemo_off,turn off my wemo plug socket,24
+wemo_on,turn on the wemo plug socket to connect my charger to it,23
+wemo_on,on off mobile charger plug,23
+wemo_on,turn on wemo,23
+wemo_on,please turn on the smart socket,23
+wemo_on,if switch is on then turn on else turn off,23
+wemo_on,turn on the fan socket,23
+wemo_on,on all the button on dashboard,23
+wemo_on,turn on wemo <unk> in game room,23
+wemo_on,on the plug,23
+wemo_on,could you please turn on the plug,23
+wemo_on,make the wemo plug socket turned on,23
+wemo_on,turn the smart plug on,23
+wemo_on,please turn on my door lock,23
+wemo_on,turn on new smart socket,23
+wemo_on,turn on kitchen light,23
+wemo_on,toggle wemo plug socket on,23
+wemo_on,switch the smart plug socket,23
+wemo_on,turn on my son's room plug socket on off,23
+wemo_on,turn on the light'socket,23
+wemo_on,power up the plug socket one,23
+wemo_on,turn on the smart plug,23
+wemo_on,turn on socket,23
+wemo_on,you can set schedules for your devices and control them remotely using a mobile internet connection,23
+wemo_on,you'll be able to turn that device on or off using your smartphone or tablet,23
