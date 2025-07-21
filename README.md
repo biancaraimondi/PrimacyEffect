@@ -1,5 +1,5 @@
 # Exploiting Primacy Effect to Improve Large Language Models
-This repository is the code base for the paper: [Exploiting Primacy Effect to Improve Large Language Models](TODO add link to arXiv).
+This repository is the code base for the paper: [Exploiting Primacy Effect to Improve Large Language Models](https://arxiv.org/abs/2507.13949).
 
 ## Getting started
 Clone the repository and install the requirements:
@@ -56,9 +56,13 @@ This repository is released under the [Apache 2.0](https://github.com/biancaraim
 ## Citation
 If you use this code in your research, please cite the following paper:
 ```
-@misc{TODO,
-      title={TODO}, 
-      author={TODO},
-      year={TODO}
+@misc{raimondi2025exploitingprimacyeffectimprove,
+      title={Exploiting Primacy Effect To Improve Large Language Models}, 
+      author={Bianca Raimondi and Maurizio Gabbrielli},
+      year={2025},
+      eprint={2507.13949},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2507.13949}, 
 }
 ```
